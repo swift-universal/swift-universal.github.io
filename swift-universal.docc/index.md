@@ -3,6 +3,7 @@
 @Metadata {
   @PageKind(article)
   @PageColor(blue)
+  @TechnologyRoot
   @TitleHeading("Universal Tooling")
   @PageImage(purpose: icon, source: "index-icon", alt: "Swift Universal Icon")
   @PageImage(purpose: card, source: "index-card", alt: "Swift Universal Card")
