@@ -1,5 +1,7 @@
 # Swift Universal
 
+Brand note: Keep pages crisp, structured, and navigable.
+
 @Metadata {
   @PageKind(article)
   @PageColor(blue)
