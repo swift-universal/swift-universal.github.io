@@ -24,8 +24,17 @@ Swift Universal provides cross-platform libraries and tools that power the Apple
 
 ## Topics
 
-### Libraries
+### Repositories
 
-- **swift-figlet-kit**: ASCII art generation for Swift CLIs.
-- **any-language-model**: Abstract interfaces for LLM integration.
-- **common-process**: Robust subprocess management.
+| Repo | What it is |
+| :--- | :--- |
+| [`common-process`](https://github.com/swift-universal/common-process) | Robust subprocess management |
+| [`common-shell`](https://github.com/swift-universal/common-shell) | Shell ergonomics and scripting helpers |
+| [`common-cli`](https://github.com/swift-universal/common-cli) | CLI primitives |
+| [`common-log`](https://github.com/swift-universal/common-log) | Logging foundations |
+| [`swift-core-platform-metrics`](https://github.com/swift-universal/swift-core-platform-metrics) | Cross-platform device/OS metrics baselines |
+
+### Documentation
+
+- [`swift-universal.github.io`](https://github.com/swift-universal/swift-universal.github.io) — this DocC site
+- [`swift-universal/.github`](https://github.com/swift-universal/.github) — org profile + shared community docs
