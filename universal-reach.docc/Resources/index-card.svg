@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .border { stroke: #E4E7EC; stroke-width: 2; fill: none; }
+      .primary { fill: #F05138; }
+      .title { fill: #1D1D1F; font: 84px ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Helvetica, Arial; font-weight: 900; letter-spacing: 1px; }
+      .sub { fill: #4B4B4B; font: 34px ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Helvetica, Arial; font-weight: 600; }
+      .mono { fill: rgba(29,29,31,0.55); font: 22px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-weight: 700; }
+      .grid { stroke: rgba(29,29,31,0.06); stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="630" rx="32"/>
+  <rect class="border" x="30" y="30" width="1140" height="570" rx="26"/>
+
+  <!-- subtle grid -->
+  <g>
+    <line class="grid" x1="80" y1="140" x2="1120" y2="140"/>
+    <line class="grid" x1="80" y1="240" x2="1120" y2="240"/>
+    <line class="grid" x1="80" y1="340" x2="1120" y2="340"/>
+    <line class="grid" x1="80" y1="440" x2="1120" y2="440"/>
+    <line class="grid" x1="80" y1="540" x2="1120" y2="540"/>
+  </g>
+
+  <!-- orange reach mark -->
+  <path class="primary" d="M190 440 C 236 250, 412 130, 574 154 C 690 170, 760 272, 728 362 C 694 462, 580 498, 500 438 C 438 392, 426 314, 470 266 C 508 224, 580 220, 620 256 C 654 286, 650 342, 608 372 C 568 400, 520 388, 506 352 C 492 314, 528 286, 562 304" opacity="0.95"/>
+
+  <text class="title" x="720" y="280">Swift Universal</text>
+  <text class="sub" x="720" y="332">Universal Tooling</text>
+  <text class="mono" x="720" y="392">foundations • process • cli • logging</text>
+
+  <text class="mono" x="92" y="92">#F05138</text>
+</svg>

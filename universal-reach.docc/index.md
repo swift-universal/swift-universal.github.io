@@ -1,10 +1,8 @@
 # Swift Universal
 
-Brand note: Keep pages crisp, structured, and navigable.
-
 @Metadata {
   @PageKind(article)
-  @PageColor(blue)
+  @PageColor(orange)
   @TechnologyRoot
   @TitleHeading("Universal Tooling")
   @PageImage(purpose: icon, source: "index-icon", alt: "Swift Universal Icon")

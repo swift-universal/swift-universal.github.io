@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .border { stroke: #E4E7EC; stroke-width: 2; fill: none; }
+      .primary { fill: #F05138; }
+      .text { fill: #1D1D1F; font: 64px ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Helvetica, Arial; font-weight: 800; letter-spacing: 2px; }
+      .mono { fill: #4B4B4B; font: 20px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="512" height="512" rx="44"/>
+  <rect class="border" x="28" y="28" width="456" height="456" rx="36"/>
+
+  <!-- Swift-orange accent "reach" mark -->
+  <path class="primary" d="M128 328 C 156 212, 244 148, 320 156 C 374 162, 408 204, 394 250 C 380 294, 330 312, 292 292 C 260 276, 252 242, 272 220 C 288 202, 318 200, 334 216 C 348 230, 346 252, 330 264 C 316 274, 298 270, 292 256 C 286 244, 296 232, 308 236 C 316 240, 318 252, 308 256 C 298 260, 290 250, 296 242" opacity="0.95"/>
+
+  <text class="text" x="256" y="392" text-anchor="middle">SU</text>
+  <text class="mono" x="256" y="432" text-anchor="middle">universal tooling</text>
+</svg>
